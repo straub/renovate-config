@@ -1,0 +1,25 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["(^|\\/)traefik$"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/containous/traefik"
+    },
+    {
+      "matchPackageNames": ["authelia/authelia"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/authelia/authelia"
+    },
+    {
+      "matchPackageNames": ["grafana/grafana"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/grafana/grafana"
+    },
+    {
+      "matchPackagePrefixes": ["haveagitgat/tdarr"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/HaveAGitGat/Tdarr"
+    }
+  ]
+}
