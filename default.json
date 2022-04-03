@@ -29,7 +29,7 @@
     {
       "matchPackageNames": ["instantlinux/nut-upsd"],
       "matchDatasources": ["docker"],
-      "sourceUrl": "https://github.com/instantlinux/docker-tools#/images/nut-upsd"
+      "sourceUrl": "https://github.com/instantlinux/docker-tools/tree/main/images/nut-upsd"
     }
   ]
 }
