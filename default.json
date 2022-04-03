@@ -20,6 +20,11 @@
       "matchPackagePrefixes": ["haveagitgat/tdarr"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/HaveAGitGat/Tdarr"
+    },
+    {
+      "matchPackageNames": ["telegraf"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/influxdata/telegraf"
     }
   ]
 }
