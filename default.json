@@ -25,6 +25,11 @@
       "matchPackageNames": ["telegraf"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/influxdata/telegraf"
+    },
+    {
+      "matchPackageNames": ["instantlinux/nut-upsd"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/instantlinux/docker-tools#/images/nut-upsd"
     }
   ]
 }
