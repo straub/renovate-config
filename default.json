@@ -30,6 +30,11 @@
       "matchPackageNames": ["instantlinux/nut-upsd"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/instantlinux/docker-tools/tree/main/images/nut-upsd"
+    },
+    {
+      "matchPackageNames": ["mazzolino/restic"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/djmaze/resticker/"
     }
   ]
 }
