@@ -35,6 +35,11 @@
       "matchPackageNames": ["mazzolino/restic"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/djmaze/resticker/"
+    },
+    {
+      "matchPackageNames": ["containrrr/watchtower"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/containrrr/watchtower/"
     }
   ]
 }
