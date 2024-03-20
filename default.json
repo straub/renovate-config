@@ -40,6 +40,11 @@
       "matchPackageNames": ["containrrr/watchtower"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/containrrr/watchtower/"
+    },
+    {
+      "matchPackageNames": ["ghcr.io/esphome/esphome"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/esphome/esphome/"
     }
   ]
 }
