@@ -45,6 +45,11 @@
       "matchPackageNames": ["ghcr.io/esphome/esphome"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/esphome/esphome/"
+    },
+    {
+      "matchPackageNames": ["ghcr.io/mealie-recipes/mealie"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/mealie-recipes/mealie/"
     }
   ]
 }
