@@ -50,6 +50,11 @@
       "matchPackageNames": ["ghcr.io/mealie-recipes/mealie"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/mealie-recipes/mealie/"
+    },
+    {
+      "matchPackageNames": ["prom/prometheus"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/prometheus/prometheus/"
     }
   ]
 }
