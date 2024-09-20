@@ -55,6 +55,11 @@
       "matchPackageNames": ["prom/prometheus"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/prometheus/prometheus/"
+    },
+    {
+      "matchPackageNames": ["vikunja/vikunja"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://kolaente.dev/vikunja/vikunja/"
     }
   ]
 }
