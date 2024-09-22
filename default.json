@@ -60,6 +60,11 @@
       "matchPackageNames": ["vikunja/vikunja"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://kolaente.dev/vikunja/vikunja/"
+    },
+    {
+      "matchPackageNames": ["eclipse-mosquitto"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/eclipse/mosquitto/"
     }
   ]
 }
