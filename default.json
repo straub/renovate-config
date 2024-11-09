@@ -65,6 +65,11 @@
       "matchPackageNames": ["eclipse-mosquitto"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/eclipse/mosquitto/"
+    },
+    {
+      "matchPackageNames": ["hertzg/rtl_433"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/hertzg/rtl_433_docker/"
     }
   ]
 }
