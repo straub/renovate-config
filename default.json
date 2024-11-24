@@ -70,6 +70,16 @@
       "matchPackageNames": ["hertzg/rtl_433"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/hertzg/rtl_433_docker/"
+    },
+    {
+      "matchPackageNames": ["ghcr.io/open-webui/open-webui"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/open-webui/open-webui/"
+    },
+    {
+      "matchPackageNames": ["ollama/ollama"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/ollama/ollama/"
     }
   ]
 }
