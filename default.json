@@ -85,6 +85,11 @@
       "matchPackageNames": ["ghcr.io/home-assistant-libs/python-matter-server"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/home-assistant-libs/python-matter-server/"
+    },
+    {
+      "matchPackageNames": ["espresense/espresense-companion"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/ESPresense/ESPresense-companion/"
     }
   ]
 }
