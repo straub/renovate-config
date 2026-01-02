@@ -90,6 +90,11 @@
       "matchPackageNames": ["espresense/espresense-companion"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/ESPresense/ESPresense-companion/"
+    },
+    {
+      "matchPackageNames": ["linuxserver/code-server"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/coder/code-server/"
     }
   ]
 }
