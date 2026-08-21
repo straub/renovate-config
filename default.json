@@ -87,6 +87,11 @@
       "sourceUrl": "https://github.com/home-assistant-libs/python-matter-server/"
     },
     {
+      "matchPackageNames": ["ghcr.io/matter-js/matterjs-server"],
+      "matchDatasources": ["docker"],
+      "sourceUrl": "https://github.com/matter-js/matterjs-server/"
+    },
+    {
       "matchPackageNames": ["espresense/espresense-companion"],
       "matchDatasources": ["docker"],
       "sourceUrl": "https://github.com/ESPresense/ESPresense-companion/"
